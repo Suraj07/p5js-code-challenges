@@ -1,0 +1,5 @@
+/* remove top and left whitespace */
+body {
+  margin:0; 
+  padding:0;
+}
